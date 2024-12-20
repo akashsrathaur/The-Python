@@ -16,7 +16,7 @@ The repository contains all the source code, projects, problem sets, and additio
   
 ## Introduction
 
-This repository is part of **Easy Python Course** created by [Akash Rathaur](). 
+This repository is part of **Easy Python Course** created by [Akash Singh Rathaur](https://github.com/akashsrathaur/The-Python.git). 
 The course aims to provide a comprehensive guide to learning Python programming.
 
 ## Chapters
@@ -111,7 +111,7 @@ Each chapter contains problem sets to test your understanding and to practice co
 
 1. **Clone the repository** to your local machine using:
    ```sh
-   git clone 
+   git clone https://github.com/akashsrathaur/The-Python.git
    ```
 2. Explore the chapters for lessons and code examples.
 3. Complete the problem sets at the end of each chapter to practice.
