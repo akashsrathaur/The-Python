@@ -3,5 +3,5 @@ def goodDay(name, ending):
     print(ending)
     return "ok"
 
-a = goodDay("Harry", "Thank you") 
+a = goodDay("Tia", "Thank you") 
 print(a)
