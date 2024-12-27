@@ -1,3 +1,5 @@
-name = "Harry is a good  boy and  "
+letter = '''Dear <|Name|>, 
+You are selected! 
+<|Date|> '''
 
-print(name.find("  "))
+print(letter.replace("<|Name|>", "Tia").replace("<|Date|", "06 June 2005"))

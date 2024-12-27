@@ -1,6 +1,15 @@
-username = input("Enter username: ")
+p1="Akash"
+p2="Akash2"
+p3="Akash3"
+p4="Akash4"
+p5="Akash5"
 
-if(len(username)<10):
-    print("Your username contains less than 10 characters")
-else:
-    print("Your username contains more than or equal to 10 characters")
+
+while True:
+    u=input("enter username: ")
+    if u!=p1 and u!=p2 and u!=p3 and u!=p4 and u!=p5:
+        print("welcome")
+        break
+    else:
+        print("invalid username")
+        continue

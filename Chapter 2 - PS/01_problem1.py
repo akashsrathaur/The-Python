@@ -1,5 +1,3 @@
-a = 1
-
-b = 5
-
-print(a + b)
+a = int(input("enter: "))
+b = int(input("enter: "))
+print("sum is ",a+b)

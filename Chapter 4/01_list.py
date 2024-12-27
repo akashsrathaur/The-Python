@@ -1,4 +1,4 @@
-friends = ["Apple", "Orange", 5, 345.06, False, "Akash", "Tia"]
+friends = ["Apple", 5, 345.06, False, "Akash", "Tia"]
 
 print(friends[0])
 friends[0] = "Grapes" # Unlike Strings lists are mutable

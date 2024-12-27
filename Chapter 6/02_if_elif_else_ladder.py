@@ -2,18 +2,18 @@ a = int(input("Enter your age: "))
 
 # If elif else ladder
 if(a>=18):
-    print("You are above the age of consent")
-    print("Good for you")
+    print("Tum toh bade ho gaye")
+    print("Tum ja skte ho")
 
-elif(a<0):
-    print("You are entering an invalid negative age")
+else if(a<0):
+    print("Beta khud ko bna rhe ho ya hme?")
 
 elif(a==0):
-    print("You are entering 0 which is not a valid age")    
+    print("Aaj hi paida hue ho?")    
 
 else:
-    print("You are below the age of consent")
+    print("Tum toh bachche ho")
 
 
-print("End of Program")
+    print("Ab bas niklo!!!")
 

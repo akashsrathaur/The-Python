@@ -2,12 +2,12 @@ a = int(input("Enter your age: "))
 
 # If else statement
 if(a>=18):
-    print("You are above the age of consent")
-    print("Good for you")
+    print("Tum toh bade ho gaye")
+    print("Tum ja skte ho")
 
 else:
-    print("You are below the age of consent")
+    print("Beta bachche ho tum")
 
 
-print("End of Program")
+    print("Tum toh nhi ja skte")
 

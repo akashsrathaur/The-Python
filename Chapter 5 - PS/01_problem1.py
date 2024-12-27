@@ -4,6 +4,6 @@ words = {
     "billi": "Cat"
 }
 
-word = input("Enter the word you want meaning of: ")
+word = input("Enter the word you want meaning of: ").lower()
 
 print(words[word])
